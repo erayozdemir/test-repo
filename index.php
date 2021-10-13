@@ -1,5 +1,0 @@
-<?PhP 
-
-
-echo "Hello Github";
-
